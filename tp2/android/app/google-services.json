@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618718312464",
+    "project_id": "taskapp-cb3ce",
+    "storage_bucket": "taskapp-cb3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618718312464:android:d95e97fe96f9d8ce0fb295",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG3IS6kw65GTKUfMFDcw4QzyjWYA-HXCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618718312464:android:9581eca567cbf1bb0fb295",
+        "android_client_info": {
+          "package_name": "com.example.tp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG3IS6kw65GTKUfMFDcw4QzyjWYA-HXCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
